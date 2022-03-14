@@ -12,6 +12,10 @@
     margin-bottom: 5px;
 }
 
+.cartao-pokemon span {
+    font-size: 15px;
+}
+
 .cartao-pokemon .tipo {
     background-color: #FFFFFF;
     font-size: 12px;
