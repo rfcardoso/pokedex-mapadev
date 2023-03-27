@@ -2,7 +2,7 @@
 
 <p>Project proposed by the channel @DevEmDobro, aiming to introduce the concepts of HTML, CSS and JavaScript, through the development of a static PokeDex</p>
 
-https://ricardocardoso-dev.github.io/pokedex/
+[![deployment](https://github.com/ricardocardoso-dev/pokedex/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://ricardocardoso-dev.github.io/pokedex/)
 
 
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
