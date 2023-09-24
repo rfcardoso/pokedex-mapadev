@@ -1,9 +1,13 @@
+# Pokédex
+
 [![GitHub license](https://img.shields.io/github/license/ricardocardoso-dev/pokedex?color=brightgreen)](https://github.com/ricardocardoso-dev/pokedex/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/ricardocardoso-dev/pokedex?color=brightgreen)](https://github.com/ricardocardoso-dev/pokedex/issues)
 [![GitHub stars](https://img.shields.io/github/stars/ricardocardoso-dev/pokedex?color=brightgreen)](https://github.com/ricardocardoso-dev/pokedex/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ricardocardoso-dev/pokedex?color=brightgreen)](https://github.com/ricardocardoso-dev/pokedex/network)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ricardocardoso-dev/pokedex?color=brightgreen)](https://github.com/ricardocardoso-dev/pokedex/commits/main)
 [![deployment](https://github.com/ricardocardoso-dev/pokedex/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://ricardocardoso-dev.github.io/pokedex/)
+![Lines of code](https://tokei.rs/b1/github/ricardocardoso-dev/pokedex)
+![Lines of code](https://tokei.rs/b1/github/ricardocardoso-dev/pokedex?category=files)
 
 ## Introduction
 <p>Project proposed by the channel @DevEmDobro, aiming to introduce the concepts of HTML, CSS and JavaScript, through the development of a static PokeDex</p>
